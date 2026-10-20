@@ -1,0 +1,2 @@
+# keep Linux line endings for server scripts (even when pushed from Windows)
+*.sh text eol=lf
